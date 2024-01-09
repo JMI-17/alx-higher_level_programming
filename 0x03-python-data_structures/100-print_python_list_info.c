@@ -1,4 +1,7 @@
-#include <python.h>
+#include <Python.h>
+#include <stdio.h>
+#include <stdlib.h>
+
 /*#include <object.h>*/
 /*#include <listobject.h>*/
 /*#include <stdio.h>*/
